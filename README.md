@@ -1,5 +1,7 @@
-### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 
+# EX7 Implementation of Link Analysis using HITS Algorithm
+### NAME : VEERARAGAVAN V
+### REG : 212223230237 
+### DATE: 10-05-2025
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
